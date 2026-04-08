@@ -1,4 +1,6 @@
 # Project Prometheus
+</table>
+   </tr>
         <td align="center" width="190"><img src='doc/asu.png' width='120'/><div style='word-wrap: break-word;width:120px'>Arizona State University</div></td>
         <td align="center" width="190"><img src='doc/bomberos.png' width='110'/><div style='word-wrap: break-word;width:140px'>Bomberos Voluntarios República Argentina</div></td>
         <td align="center" width="190"><img src='doc/noaa.png' width='120'/><div style='word-wrap: break-word;width:120px'>National Weather Service</div></td>
