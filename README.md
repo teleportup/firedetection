@@ -1,15 +1,4 @@
 # Project Prometheus
-
-<p>Prometheus is an early-stage fire detection solution that combines AI, Computer Vision, auto-piloted drones and weather services to detect wildfires before they spread too large. Named after Prometheus, the Greek Titan, who defies the gods by stealing fire and giving it to humanity, an act that enabled progress and civilization. We are itching to do the same.</p>
-
-<p>We combine autopiloted drones and computer vision to detect wildfires while they are still in their early stages. The concept is to leverage the vast amounts of wildfire images and videos available on the internet to train a regional deep learning neural network to detect the presence of a fire, however small it may be. The drone would then fly over parks and forests collecting the images and an algorithm  will determine the confidence level at which it believes a region is about to develop a fire. This solution is capable of detecting small occurences of fire, hard to see from the distance.
-</p>
-
-<h2>
-Prometheus is a joint efford of
-</h2>
-<table>
-    <tr>
         <td align="center" width="190"><img src='doc/asu.png' width='120'/><div style='word-wrap: break-word;width:120px'>Arizona State University</div></td>
         <td align="center" width="190"><img src='doc/bomberos.png' width='110'/><div style='word-wrap: break-word;width:140px'>Bomberos Voluntarios República Argentina</div></td>
         <td align="center" width="190"><img src='doc/noaa.png' width='120'/><div style='word-wrap: break-word;width:120px'>National Weather Service</div></td>
